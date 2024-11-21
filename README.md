@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nahyun Kim</h1>
 <h3 align="center">A passionate developer from South Korea.</h3>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
