@@ -8,5 +8,5 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nhkim06&show_icons=true&locale=en&layout=compact" alt="nhkim06" /></p>
 
-### 📄Project Development Records  
+<h3 align="left">Project Development Records:</h3>
 [Notion Link](https://precious-othnielia-bfe.notion.site/143f7fe1543380ccab2cca7dd5a87147)
