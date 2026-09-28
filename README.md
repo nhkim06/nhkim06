@@ -1,8 +1,5 @@
 # Hi, I'm Nahyun Kim 👋
 
-Backend Developer를 목표로 공부하고 있습니다.  
-서비스의 기능 구현뿐만 아니라 **데이터 처리, 성능 개선, 안정적인 시스템 설계**에 관심이 있습니다.
-
 ## 🛠 Tech Stack
 
 **Backend**  
