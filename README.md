@@ -8,13 +8,13 @@ Backend Developer를 목표로 공부하고 있습니다.
 **Backend**  
 Java, Spring / Spring MVC, MySQL, MyBatis, REST API
 
-**Data & AI**
+**Data & AI**  
 Python, RAG
 
-**Frontend**
+**Frontend**  
 HTML / CSS, JavaScript, Vue, Chart.js
 
-**Collaboration & Tools**
+**Collaboration & Tools**  
 Git, GitHub, Notion
 
 ## 🚀 Projects
@@ -31,7 +31,7 @@ Git, GitHub, Notion
 - API 성능 테스트 및 최적화
 - Spring · MySQL · JavaScript · Docker
 
-[프로젝트 자세히 보기](프로젝트_사이트_URL)
+[HomeDeal 사이트로 이동](https://fe-omega-nine.vercel.app/)
 
 ## 📚 Interests
 
